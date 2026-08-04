@@ -231,6 +231,9 @@ Use HR analytics to reduce employee turnover, improve workforce stability, and e
 
 - Microsoft Excel
 - Power BI
+- Basic Python
+- Tableau
+- SQL
 
 ### Connect with Me
 
