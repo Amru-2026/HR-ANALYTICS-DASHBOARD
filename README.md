@@ -181,7 +181,7 @@ Use HR analytics to reduce employee turnover, improve workforce stability, and e
 
 ---
 
-### 6. Screenshots / Demos
+### 6. Screenshots 
 
 ### Dashboard Preview
 
